@@ -13,7 +13,7 @@ int main(){
   int x;
 
   //Choosing x
-  printf("Enter x(192.160.x.1):  ");
+  printf("Enter x(192.168.x.1):  ");
   scanf("%d", &x);
 
   //Starting Action
